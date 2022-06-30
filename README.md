@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @annacaetano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Sobre Mim
+Em 2022, decidi de forma orgânica iniciar meus estudos em programação e sigo nessa aventura.
+## Graduada em Psicologia.
+Transição de Carreira
 
-<!---
-annacaetano/annacaetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/contatogiovannacaetano/)
